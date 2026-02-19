@@ -31,7 +31,7 @@ The algorithm runs in two phases:
 ## Project Structure
 
 ```
-app/dijkstra/
+dijkstra/
 ├── pom.xml                      # Maven build configuration
 ├── README.md                    # This file
 ├── Driver.java                  # Main orchestrator
